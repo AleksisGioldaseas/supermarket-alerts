@@ -1,0 +1,1 @@
+# personal-lidl-discount-tracker
